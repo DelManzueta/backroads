@@ -1,4 +1,4 @@
 @import './global.css';
 @import './root.css';
-@import '../../components/components.css';
-@import '../../pages/pages.css';
+@import '../../components/__components.css';
+@import '../../pages/__pages.css';
