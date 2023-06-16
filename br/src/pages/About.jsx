@@ -1,4 +1,5 @@
-import './styles/about.css';
+import aboutImg from '../assets/images/about.jpeg';
+import Title from '../components/Title';
 
 function About() {
 	return (
@@ -7,19 +8,15 @@ function About() {
 				className='section'
 				id='about'
 			>
-				<div
-					classN
-					ame='section-title'
-				>
-					<h2>
-						about <span>us</span>
-					</h2>
-				</div>
+				<Title
+					title='who'
+					subTitle='we are'
+				/>
 
 				<div className='section-center about-center'>
 					<div className='about-img'>
 						<img
-							src='./src/assets/images/about.jpeg'
+							src={aboutImg}
 							className='about-photo'
 							alt='awesome beach'
 						/>
