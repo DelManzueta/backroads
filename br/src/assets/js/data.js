@@ -56,7 +56,7 @@ export const tours = [
 		date: 'november 23rd, 2023',
 		title: 'Island Tour',
 		info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
-		location: 'Dominican Republic',
+		location: 'Costa Rica',
 		duration: 8,
 		price: '5,600',
 	},
@@ -68,7 +68,7 @@ export const tours = [
 		info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
 		location: 'united states',
 		duration: 4,
-		price: 7800,
+		price: '7,800',
 	},
 
 	{
@@ -79,7 +79,7 @@ export const tours = [
 		info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
 		location: 'china',
 		duration: 6,
-		price: 2100,
+		price: '2,100',
 	},
 	{
 		id: 5,
@@ -89,7 +89,7 @@ export const tours = [
 		info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
 		location: 'china',
 		duration: 6,
-		price: 2100,
+		price: '2,100',
 	},
 	{
 		id: 6,
@@ -99,6 +99,6 @@ export const tours = [
 		info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
 		location: 'china',
 		duration: 6,
-		price: 2100,
+		price: '2,100',
 	},
 ];
